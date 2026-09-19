@@ -1,4 +1,4 @@
-# msu.edu
+# Michigan State University - MSU
 Michigan State University - MSU
 Faculty Educational Technology Workshops Available
 Click here for information about D2L and Gradescope learning sessions.
